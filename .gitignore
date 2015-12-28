@@ -1,0 +1,13 @@
+
+# IDE Specific Folders #
+nbproject/
+.idea/
+
+
+# Node Modules #
+node_modules/
+
+# Test Folders #
+tests/runner/node_modules/
+tests/runner/coverage/
+tests/runner/reports/
